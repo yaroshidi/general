@@ -5,7 +5,7 @@ var typed = new Typed(".typing-text", {
         '<span class="blue">AI chip prices</span>',
         '<span class="red">TV show metrics</span>',
         '<span class="green">Weather patterns</span>',
-        '<span class="black">What matters to you</span>'
+        '<span class="black">What you know</span>'
     ],
     typeSpeed: 50,// typing speed
     backSpeed: 50, // erasing speed
